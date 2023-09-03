@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\bin\Debug\two_pictures.exe.config
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\bin\Debug\two_pictures.exe
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\bin\Debug\two_pictures.pdb
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\two_pictures.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\two_pictures_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\two_pictures.g.resources
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\two_pictures.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\two_pictures.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\two_pictures.exe
+c:\users\user\documents\visual studio 2013\Projects\two_pictures\two_pictures\obj\Debug\two_pictures.pdb
